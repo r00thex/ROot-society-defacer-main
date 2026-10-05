@@ -133,10 +133,6 @@ pip install -r requirements.txt
 python main.py --help
 ```
 
----
-
-## 🚀 Usage
-
 ### 🎯 Single Target
 
 ```bash
