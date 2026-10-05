@@ -4,11 +4,6 @@
 
 ### Automated Exploitation Framework with Defacement
 
-<!-- MAIN BANNER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HackfutSecRoot/Defacer/main/images/banner.png" alt="Banner" width="800px">
-</p>
-
 <!-- BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/CVE-2026--52774-red?style=for-the-badge&logo=security">
@@ -79,26 +74,6 @@ graph LR
 | 📡 Auto Server | Starts HTTP server automatically | ✅ |
 | 🍪 Exfiltration | Captures cookies automatically | ✅ |
 | 📊 Mass Scan | Scans multiple targets simultaneously | ✅ |
-
----
-
-## 📸 Live Demo
-
-<div align="center">
-
-### 🖥️ Terminal - Vulnerability Detection & Exploitation
-
-<p align="center">
-  <img src="https://i.postimg.cc/J0WHZyj0/Screenshot-2026-09-05-2.png" alt="Terminal Exploitation" width="800px">
-</p>
-
-### 🌐 Browser - Defacement Page Result
-
-<p align="center">
-  <img src="https://i.postimg.cc/7LF5rCs2/Screenshot-2026-09-05-3.png" alt="Defacement Result" width="800px">
-</p>
-
-</div>
 
 ---
 
@@ -246,12 +221,6 @@ Options:
 
 </div>
 
-### 🖼️ Preview
-
-<p align="center">
-  <img src="https://i.postimg.cc/7LF5rCs2/Screenshot-2026-09-05-3.png" alt="Defacement Preview" width="600px">
-</p>
-
 ### 🔧 Customization
 
 ```python
@@ -270,18 +239,6 @@ Options:
 ## 📱 Contact
 
 <div align="center">
-
-### Join Us on Telegram
-
-| Channel | Link | Description |
-|---------|------|-------------|
-| 📢 **Channel 1** | [t.me/+gsrpvshwGUc5MzI0](https://t.me/+gsrpvshwGUc5MzI0) | Main Channel |
-| 🔥 **Channel 2** | [t.me/LinxProdXs404](https://t.me/LinxProdXs404) | LinxProdXs404 |
-| 💀 **ULP** | [t.me/ulp_Linxprodx](https://t.me/ulp_Linxprodx) | ULP Channel |
-| 📌 **Post #249** | [t.me/LinxProdXs404/249](https://t.me/LinxProdXs404/249) | Important Post |
-| 🎯 **Post #541** | [t.me/LinxProdXs404/541](https://t.me/LinxProdXs404/541) | Featured Post |
-
-</div>
 
 ---
 
