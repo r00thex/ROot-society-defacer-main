@@ -29,21 +29,6 @@
 
 </div>
 
----
-
-## 📖 Table of Contents
-
-- [📌 Description](#-description)
-- [📸 Live Demo](#-live-demo)
-- [🔍 Vulnerability](#-vulnerability)
-- [⚙️ Installation](#️-installation)
-- [🚀 Usage](#-usage)
-- [🎨 Defacement Page](#-defacement-page)
-- [📱 Contact](#-contact)
-- [⚠️ Disclaimer](#️-disclaimer)
-
----
-
 ## 📌 Description
 
 <div align="center">
@@ -326,11 +311,5 @@ SOFTWARE.
 
 <div align="center">
 
-### 🔥 ROot society — Security is just an illusion 🔥
-
-<img src="https://i.postimg.cc/7LF5rCs2/Screenshot-2026-09-05-3.png" alt="Root hex" width="150px">
-
-</div>
-```
 
 ---
