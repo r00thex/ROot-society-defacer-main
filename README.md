@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 CVE-2026-52774 — YesWiki Bazar Widget Reflected XSS
+# 🚀 CVE-2026-52774 — Reflected XSS
 
 ### Automated Exploitation Framework with Defacement
 
