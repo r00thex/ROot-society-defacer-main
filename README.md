@@ -124,8 +124,7 @@ Injection: query param → strip_tags() → data-iframeUrl attribute
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Root/Defacer.git
-cd Defacer
+git clone https://github.com/r00thex/ROot-society-defacer-main.git
 
 # 2. Install dependencies
 pip install -r requirements.txt
@@ -218,19 +217,6 @@ Options:
 # Change server port
 --server-port 8888
 ```
-
----
-
-## 📱 Contact
-
-<div align="center">
-
----
-
-## ⚠️ Disclaimer
-
-<div align="center">
-
 ### ⚠️ LEGAL WARNING ⚠️
 
 <p align="center">
@@ -305,11 +291,3 @@ SOFTWARE.
   </a>
 </p>
 
-</div>
-
----
-
-<div align="center">
-
-
----
